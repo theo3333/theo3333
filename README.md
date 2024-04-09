@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Theo!
-- Currently a Remote Student at Oregon State University!
+ 👋 Hi, I’m Theo!
+ Currently a Remote Student at Oregon State University!
 
 🚀 Python Programmer | SQL Developer | Machine Learning, Cloud Computing enthusiast | Web Dev |
 
@@ -7,7 +7,7 @@
 
 📈 Working on Myself to be a Python Full-Stack Dev / Machine Learning Engineer / Data Scientist!
 
-🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.
+🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers, engineers.
 
 ⚡ Eager to contribute to engineering team projects with an impact on Python development and data collection. Focusing on average time spent per client ticket. Exploring Open Source and Machine/Deep Learning. Studying for CCNP, COMPTIA Network and Security certs.
 
