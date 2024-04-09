@@ -13,5 +13,6 @@
 
 💻 Tech obsessed, Automation obssessed! Want to automate as much as possible around homes to help my aging parents and family!
 
-To reach me : Mail - theodorelo333@gmail.com for offers!
+To reach me : email - theodorelo333@gmail.com for anything!
 
+https://www.linkedin.com/in/theolo
